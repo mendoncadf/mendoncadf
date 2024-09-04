@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente, trabalho com robótica educativa com criança do ensino fundamental.<br>Procuro colaborar com projetos inicialmente voltados para esse campo de ação.<br>Busco ajuda com algumas linguagens de programação que estou aprendendo no momento.<br>Estou aprendendo lógica de programação e JavaScript Back-End.<br>Você pode me perguntar sobre assuntos de biologia, ou educação, as minhas formações principais.
+Atualmente, trabalho com robótica educativa para crianças do ensino fundamental.<br>Tenho colaborado com projetos educacionais e científicos voltados para esta área.<br>Busco ajuda com algumas linguagens de programação que estou aprendendo no momento, no caso, estou aprendendo além de lógica de programação, JavaScript voltado a Back-End, e algumas outras linguagens.<br>Você pode me perguntar sobre assuntos de biologia e educação, que são as minhas formações principais.
 
 
 ## 🌐 Socials:
